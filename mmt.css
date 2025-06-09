@@ -1,0 +1,55 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    margin-top:8px ;
+}
+
+.login-username{
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 31px;
+    text-align: center;
+    border-width: 2px;
+    border-color: grey;
+    font-size: 20px;
+}
+
+.login-password{
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 31px;
+    text-align: center;
+    border-width: 2px;
+    border-color: grey;
+    font-size: 20px;
+}
+
+.login-heading{
+    color: white;
+    font-family: roboto;
+    margin-top: 58px;
+    margin-bottom: 34px;
+}
+.login-button{
+    width: 255px;
+    height: 40px;
+    border-radius: 12px;
+    color: white;
+    background-color: orange;
+    font-family: roboto;
+    font-size: 21px;
+}
+
+.login-card-container{
+    margin-top: 80px;
+    border-radius: 20px;
+    background-color: #090979;
+    padding: 25px;
+    box-shadow: 10px 7px 30px -10px rgba(0,0,0,0.75);
+   -webkit-box-shadow: 10px 7px 30px -10px rgba(0,0,0,0.75);
+   -moz-box-shadow: 10px 7px 30px -10px rgba(0,0,0,0.75);
+   text-align: center;
+}
+.image-card{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makemytrip.com%2F&psig=AOvVaw30UTjDo2APCaiU92VL6zox&ust=1749539197787000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC-wsfj440DFQAAAAAdAAAAABAS");
+}
